@@ -1,4 +1,6 @@
-# Analysis: Comparable response of wild rodent gut microbiome to anthropogenic habitat contamination (Jupyter Notebook and R Markdown)
+# Analysis: Jupyter Notebook and R Markdown
+
+## Comparable response of wild rodent gut microbiome to anthropogenic habitat contamination
 
 This repository contains the code used to analyse the data in Lavrinienko et al. 2021. The Jupyter Notebook and the R Markdown contain commands to process raw read data, reproduce the qiime2 analyses, stats and main figures.
 
