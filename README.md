@@ -12,9 +12,8 @@ If you use this resource in your research, please cite the following [article](x
 
 ## Requirements
 
-qiime2 is required to run most of the commands described below (the xxxx.x qiime2 version was used).
-To install qiime2 follow these instructions: xxx.
-To activate the qiime2 conda environment run: source activate qiime2-xxx (or the other installed version).
+qiime2 is required to run most of the commands described below (the 2019.4 qiime2 version was used).
+To install qiime2 follow [these](https://docs.qiime2.org/2019.4/install/) instructions.
 
 ### File explanations
 
