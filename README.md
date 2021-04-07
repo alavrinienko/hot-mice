@@ -1,4 +1,4 @@
-# Analysis: Jupyter Notebook and R Markdown
+# Analysis
 
 ## Comparable response of wild rodent gut microbiome to anthropogenic habitat contamination
 
