@@ -4,7 +4,7 @@
 
 This repository contains the code used to analyse the data in Lavrinienko et al. 2021. The Jupyter Notebook and the R Markdown contain commands to process raw read data, reproduce the qiime2 analyses, stats and main figures.
 
-This repository provides the main data files, i.e. metadata, dada2 feature-tables, representative sequences, phylogenetic tree and taxonomy. It should be possible to generate the rest of the data using these files and commands. The raw sequence data for this study have been deposited in the European Nucleotide Archive (ENA) at EMBL-EBI under accession number [PRJEB44039](https://www.ebi.ac.uk/ena/browser/view/PRJEB44039).
+This repository provides the main data files, i.e. metadata, dada2 feature-tables, representative sequences, phylogenetic tree and taxonomy. It should be possible to generate the rest of the data using these files and commands. The raw sequence data for this study have been deposited in the European Nucleotide Archive (ENA) at EMBL-EBI under accession number [PRJEB44039](https://www.ebi.ac.uk/ena/browser/view/PRJEB44039). To analyse these data we have used computing resources and infrastructure provided by [the Finnish Centre for Scientific Computing (CSC)](https://www.csc.fi/csc).
 
 If you use this resource in your research, please cite the following [article](xxx):
 
