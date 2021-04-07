@@ -17,8 +17,19 @@ To install qiime2 follow [these](https://docs.qiime2.org/2019.4/install/) instru
 
 ### File explanations
 
- - qiime2 analysis notebook: chern-cmr-voles-v200419.ipynb
- - Metadata: metadata-malesrt.txt (metadata for wild bank voles from the Chernobyl Exclusion Zone, Ukraine)
- - qiime2 feature-table: malesrt2_table-dada2.qza (the original dada2 feature-table)
- - qiime2 rarefied feature-table: rarefied_table.qza (the 'filtered10', rarefied dada2 feature-table)
- - qiime2 representative sequences: malesrt2_rep-seqs-dada2.qza (the dada2 representative sequences)
+ - qiime2 analysis notebook: github-ver-hot-mice.ipynb
+ - metadata: metadata.txt
+ - qiime2 feature-table: apo272-table-dada2.qza (the original dada2 feature-table for mice)
+ - qiime2 rarefied feature-table: rarefied_table.qza (the 'filtered10', rarefied dada2 feature-table for mice)
+ - qiime2 rarefied feature-table: rarefied_table_chernobyl142.qza (the 'filtered10', rarefied dada2 feature-table for mice, Chernobyl samples only)
+ - qiime2 rarefied feature-table: rarefied_table_fukushima130.qza (the 'filtered10', rarefied dada2 feature-table for mice, Fukushima samples only)
+ - qiime2 rarefied feature-table: rarefied_table_chernobyl115_flavicollis.qza (the 'filtered10', rarefied dada2 feature-table for mice, *Apodemus flavicollis* samples only)
+ - qiime2 rarefied feature-table: rarefied_table_chernobyl27_sylvaticus.qza (the 'filtered10', rarefied dada2 feature-table for mice, *Apodemus sylvaticus* samples only)
+ - qiime2 rarefied feature-table: rarefied_table_fukushima53_argenteus_small.qza (the 'filtered10', rarefied dada2 feature-table for mice, *Apodemus argenteus* samples only)
+ - qiime2 rarefied feature-table: rarefied_table_fukushima77_speciosus_large.qza (the 'filtered10', rarefied dada2 feature-table for mice, *Apodemus speciosus* samples only)
+ - qiime2 feature-table: dada2-table-vole137.qza (the original dada2 feature-table for bank voles)
+ - qiime2 rarefied feature-table: rarefied_table-vole137.qza (the 'filtered10', rarefied dada2 feature-table for bank voles)
+ - qiime2 representative sequences: apo272-rep-seqs-dada2.qza (the dada2 representative sequences for mice)
+ - qiime2 representative sequences: dada2-rep-seqs-vole137.qza (the dada2 representative sequences for bank voles)
+ - qiime2 phylogenetic tree: rooted-apo272-tree-dada2.qza (the phylogenetic tree for mice)
+ - qiime2 taxonomy: apo272-dada2-taxonomy.qza (the taxonomy for mice)
