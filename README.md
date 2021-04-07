@@ -17,8 +17,10 @@ To install qiime2 follow [these](https://docs.qiime2.org/2019.4/install/) instru
 
 ### File explanations
 
- - qiime2 analysis notebook: github-ver-hot-mice.ipynb
- - metadata: metadata.txt
+ - qiime2 analysis notebook: github-ver-hot-mice.ipynb (the github-ver-hot-mice.html is an easy access copy)
+ - metadata: metadata-apo272.txt (metadata associated with *Apodemus* mice)
+ - metadata: metadata-vole137-apo272.txt (metadata associated with *Apodemus* mice and bank voles)
+ - metadata: dsFDR-apo272-05percent.txt (metadata associated with taxa differential abundance testing for mice)
  - qiime2 feature-table: apo272-table-dada2.qza (the original dada2 feature-table for mice)
  - qiime2 rarefied feature-table: rarefied_table.qza (the 'filtered10', rarefied dada2 feature-table for mice)
  - qiime2 rarefied feature-table: rarefied_table_chernobyl142.qza (the 'filtered10', rarefied dada2 feature-table for mice, Chernobyl samples only)
