@@ -1,5 +1,5 @@
 # Analysis Notebook
-[![DOI](https://zenodo.org/badge/353986938.svg)](https://zenodo.org/badge/latestdoi/353986938)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4670304.svg)](https://doi.org/10.5281/zenodo.4670304)
 
 ## Comparable response of wild rodent gut microbiome to anthropogenic habitat contamination
 
